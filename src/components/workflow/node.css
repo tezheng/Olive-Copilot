@@ -1,0 +1,9 @@
+.react-flow__node {
+  border: none;
+  background: transparent;
+}
+
+.react-flow__node.selected {
+  border: none;
+  background: transparent;
+}
